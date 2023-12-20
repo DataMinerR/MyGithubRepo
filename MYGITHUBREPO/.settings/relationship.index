@@ -1,1 +1,39 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_DilxMJ3BEe6dBdPVv6nJBQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CGuiUJNcEe6P1o2b3enkSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_l5Mf4J2_Ee6PTcAZ4kr7gw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_CGuiUJNcEe6P1o2b3enkSA - test",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_l5Mf4J2_Ee6PTcAZ4kr7gw - Account",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_qWn_oJNaEe6P1o2b3enkSA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_uUYZMJNbEe6P1o2b3enkSA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_uUYZMJNbEe6P1o2b3enkSA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
